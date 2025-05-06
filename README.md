@@ -1,4 +1,4 @@
-# 🧠 Semiconductor Classifier using TensorFlow (TF32 Optimized)
+# 🧠 Neural-Network-Prediction-of-Semiconductor-Material (With Frontend using Python)
 
 This project builds and evaluates a deep learning model to classify materials as **semiconductors** or **non-semiconductors** based on physical and electronic properties. The model is implemented in TensorFlow and optimized for TF32 execution on modern NVIDIA GPUs, making it fast and scalable.
 
