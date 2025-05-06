@@ -2,7 +2,7 @@ import pandas as pd
 from mp_api.client import MPRester
 
 # Replace with your actual API key
-API_KEY = "8vMFC0NgKdfYSDqvGdmRY3vw3TaZtMuC"
+API_KEY = "YOUR_MP_API_KEY"
 
 # Initialize MPRester
 with MPRester(API_KEY) as mpr:
